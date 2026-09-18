@@ -9,4 +9,5 @@ Owned clients:
 Rise, Drip lite, Augustus b4, Vape V4, Ambient, Tenacity,
 
 
-devoleper, ui/designing guis, love skidding
+
+dev, ui/designing guis, love skidding
